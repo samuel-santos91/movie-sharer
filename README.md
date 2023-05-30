@@ -1,6 +1,8 @@
 # movie-sharer
 ## Share movies with your community.
 
+### * Styled with Tailwind CSS *
+
 ### Browse or add a movie<br>
 <img width="500" alt="Screen Shot 2023-05-30 at 16 40 36" src="https://github.com/samuel-santos91/movie-sharer/assets/107240729/5c33502d-fe1b-4fa8-aa27-6f2d9ac66073"><br>
 <img width="500" alt="Screen Shot 2023-05-30 at 16 41 11" src="https://github.com/samuel-santos91/movie-sharer/assets/107240729/b0b3e504-7867-4e32-8b3f-7d39df147ccd">
