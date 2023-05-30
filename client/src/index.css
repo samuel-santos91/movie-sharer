@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .btn {
+      @apply m-4 p-2 bg-blue-950 text-white rounded-md border-solid border-2 border-white hover:bg-blue-500;
+    }
+    .btn-main {
+      @apply m-4 p-6 h-28 text-2xl bg-blue-950 text-white rounded-md border-solid border-2 border-white hover:bg-blue-500;
+    }
+    .input {
+      @apply rounded-lg h-9;
+    }
+  }
+
