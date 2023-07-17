@@ -1,6 +1,7 @@
 # movie-sharer
 ## Share movies with your community.
 
+### * Served with Express.js *
 ### * Styled with Tailwind CSS *
 
 ### Browse or add a movie<br>
