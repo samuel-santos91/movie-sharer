@@ -36,6 +36,8 @@ This project mocks a webpage where people can share their favourite movies/shows
 * You can choose to whether:
   * Browse the movies and check their information
   * Add another movie/show to the list
+### Features
+* This application uses <strong>react-router-dom</strong> to lead the user into the different sections
 
 ## Getting Started
 * The client and server folders need to be run in different terminals
