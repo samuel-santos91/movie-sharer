@@ -1,9 +1,16 @@
 # movie-sharer
-## Share movies with your community.
+## Description
+This project mocks a webpage where people can share their favourite movies/shows with the community.
+### Purpose
+* The purpose of this project was to build an application with a server
+### Tech Stack
+#### FRONTEND
+* React.js - Built with <strong>Vite</strong>
+* Tailwind CSS
+#### BACKEND
+* Express.js
 
-### * Served with Express.js *
-### * Styled with Tailwind CSS *
-
+## Preview
 ### Browse or add a movie<br>
 <img width="500" alt="Screen Shot 2023-05-30 at 16 40 36" src="https://github.com/samuel-santos91/movie-sharer/assets/107240729/5c33502d-fe1b-4fa8-aa27-6f2d9ac66073"><br>
 <img width="500" alt="Screen Shot 2023-05-30 at 16 41 11" src="https://github.com/samuel-santos91/movie-sharer/assets/107240729/b0b3e504-7867-4e32-8b3f-7d39df147ccd">
@@ -21,21 +28,22 @@
 ### Movie details<br>
 <img width="500" alt="Screen Shot 2023-05-30 at 16 41 37" src="https://github.com/samuel-santos91/movie-sharer/assets/107240729/c03203e2-8c3f-4a4f-b8f4-8f8f262b4323">
 
-  
-## Built with React.js and Express.js
-
-## Prerequisites
-
+## Getting Started
+* The client and server folders need to be run in different terminals
+* Install the packages on each folder's root directory
 ### Install Node JS
-Refer to https://nodejs.org/en/ to install nodejs
+Refer to https://nodejs.org/en/
 
-## Cloning and Running the Application in local
-
-Clone the project into local
-
-Install all the npm packages. Go into the project folder and type the following command to install all npm packages
+### Cloning and Running the Application in local
+* Clone the project into local
+* Install all the npm packages
 
 ```bash
 npm install
 ```
+## Storing the Data
+* This application mocks a database by using a JSON file to store all the data
+### API Endpoints
+* GET /url/list: lists all movies
+* POST /url/add-movie: to add a movie/show
 
